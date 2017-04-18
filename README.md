@@ -1,7 +1,11 @@
 ## Instructions
 
-`npm install`
-`npm start` (this project will run on `localhost:3000`)
+```
+npm install
+npm start
+```
+
+This project will run on `localhost:3000`
 
 ## Expected behavior
 
