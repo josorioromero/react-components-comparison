@@ -18,7 +18,7 @@ no matter if their props aren't changing, but the PureComponent will be rendered
 only if its properties are mutated.
 
 Try to change the PureComponent properties with the click event and you'll see
-how it's rendered again when the property change.
+how it's rendered again when the property changes.
 
 ## Note
 
